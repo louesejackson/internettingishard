@@ -50,6 +50,8 @@
     justify-content: center;
 }
 
+
+
 .photo-grid {
     width: 900px;
     display: flex;
@@ -77,4 +79,16 @@
 .subscribe {
     align-self: flex-end;
     margin-bottom: 20px;
+}
+
+.footer {
+    display: flex;
+    jsutify-content: space-between;
+}
+
+.footer-item {
+    border: 1px solid #fff;
+    background-color: #D6E9FE;
+    height: 200px;
+    flex: 1;
 }

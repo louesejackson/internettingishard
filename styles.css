@@ -87,7 +87,7 @@
 
 .footer {
     display: flex;
-    jsutify-content: space-between;
+    justify-content: space-between;
 }
 
 .footer-item {
